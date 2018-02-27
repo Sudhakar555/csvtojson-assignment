@@ -4,6 +4,15 @@
   "description": "check for errors",
   "main": "json.js",
   "scripts": {
+   "generate": "node json.js",
+   "start": "http-server",
+   "lint": "./node_modules/.bin/eslint json.js",
+   "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "repository": {
+   "type": "git",
+   "url": "git+https://https://github.com/Sudhakar555/csvtojson-assignment.git"
+},
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
