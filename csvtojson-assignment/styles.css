@@ -1,0 +1,62 @@
+html {
+    font-family: sans-serif;
+}
+
+
+.bar1 {
+    fill: #CA5310;
+}
+
+.bar1:hover {
+    fill: #A799B7;
+}
+
+.bar2 {
+    fill: #82DDF0;
+}
+
+.bar2:hover {
+    fill: #CFD11A;
+}
+
+.axis {
+    font-size: 12px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+html {
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+
+}svg {
+    margin-left: 0px;
+
+.bar3 {
+    fill: #91972A;
+}
+
+.bar3:hover {
+    fill: #F6FEDB;
+}
+
+
+
+.axis {
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
