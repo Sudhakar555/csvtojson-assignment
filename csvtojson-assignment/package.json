@@ -4,7 +4,7 @@
   "description": "check for errors",
   "main": "json.js",
   "scripts": {
-   "generate": "node json.js",
+   "generate":  "node json.js",
    "start": "http-server",
    "lint": "./node_modules/.bin/eslint json.js",
    "test": "echo \"Error: no test specified\" && exit 1"
